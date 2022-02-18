@@ -1,0 +1,5 @@
+Initializing 2d list with each element as empty list - shttps://stackoverflow.com/a/12791510
+Norm - https://numpy.org/doc/stable/reference/generated/numpy.linalg.norm.html
+Pulp - https://coin-or.github.io/pulp/guides/how_to_mip_start.html, https://www.youtube.com/watch?v=7yZ5xxdkTb8
+Tic Tac Toe Grid - https://numpy.org/doc/stable/reference/generated/numpy.zeros.html
+Argparser - https://docs.python.org/3/library/argparse.html
