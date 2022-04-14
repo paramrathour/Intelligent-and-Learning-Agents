@@ -1,3 +1,13 @@
+![](multi-armed-bandit.gif)
+## Introduction 
+In a bandit instance, each arm provides a random reward from a probability distribution specific to that arm, this distribution is not known a-priori and it may even change. The objective of the gambler is to maximize the sum of rewards earned through the arms which is same as minimising the 'regret'.
+
+## Tasks Implementation
+- Different algorithms for sampling the arms and regret-minimisation of a Bernoulli multi-armed bandit using ε-greedy exploration, UCB, KL-UCB, and Thompson Sampling 
+- Optimised the scaling coefficient of the exploration bonus in UCB 
+- An efficient a regret-minimisation algorithm for discrete non Bernoulli bandit instances
+
+## Other Details
 To run `bandit.py` add values for the following parameters in command line.
 	
 	--instance in, where in is a path to the instance file.
