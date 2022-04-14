@@ -1,4 +1,4 @@
-![](markov-decision-process.svg)
+![](markov-decision-process.png)
 ## Introduction 
 In Reinforcement Learning problems, Markov Decision Processes (MDPs) describe the change in environment which changes its state in response to agent's actions. The state of the environment affects the immediate reward obtained by the agent, as well as the probabilities of future state transitions. The agent's objective (also called MDP Planning) is to select actions to maximize a long-term measure (generally expectation) of total reward.
 
